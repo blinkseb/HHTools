@@ -19,3 +19,5 @@ fi
 
 # Load ROOT
 source /home/fynu/sbrochet/HH/root-6-08-00/bin/thisroot.sh
+
+export OMP_NUM_THREADS=8
